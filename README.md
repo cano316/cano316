@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cano316
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning Bootstrap v5.1
+- 👀 I’m interested in building web applications
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on anything helpful and practical!
 - 📫 How to reach me: email christiancano316@gmail.com
 
