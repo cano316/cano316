@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cano316
 - 👀 I’m interested in building full-stack web applications
-- 🌱 I am currently using Express and Node to build web applications with APIs.
+- 🌱 I am currently developing using MongoDB, Express, React, and Node.
 - 💞️ I’m looking to collaborate on anything helpful and practical!
 - 📫 How to reach me: email christiancano316@gmail.com
 
